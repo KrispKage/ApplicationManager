@@ -1,1 +1,1 @@
-# First Project from our my software development class (CSC 216)
+# First Project from our software development class (CSC 216)
